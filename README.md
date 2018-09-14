@@ -8,6 +8,8 @@
 
 ### Designer
 
+[Jared](https://docs.google.com/spreadsheets/d/174c-ETdIky57uVeFpzrrtmeVKtIfVYv7nu51RnpKcTM/edit?usp=sharing)
+
 ### Implementation Manager
 
 ### Collaboration Software Manager
