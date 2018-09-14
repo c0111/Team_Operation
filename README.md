@@ -1,7 +1,3 @@
-# TEAM OPERATION
-
-
-
 ### Project Manager
 
 ### Requirements Manager
