@@ -1,4 +1,4 @@
-# The Team
+## The Team
 
 ### Project Manager
 
