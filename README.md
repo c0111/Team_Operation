@@ -4,7 +4,7 @@
 [Ramzi](https://docs.google.com/spreadsheets/d/1FabAFQC7t7jfJEE1h68U_0yyZ_HoSr5s1t09sNVxxSo/edit?usp=sharing)
 
 ### Planner & Requirements Manager
-[Sergio]()
+[Sergio](https://docs.google.com/spreadsheets/d/1bnGzjQEPamAP0IkSwci54jNrHzpB5WqC7uf6pmycy5c/edit?usp=sharing)
 
 ### Designer & Webmaster
 
