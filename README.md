@@ -14,7 +14,7 @@
 [Valera](https://docs.google.com/spreadsheets/d/1-SH3hsswevs8E2f_ZE9crriqMi8Jg2Qaglgx1JdXsaI/edit?usp=sharing)
 
 ### Collaboration Software & Interface Design and Testing Manager
-[Sajith]()
+[Sajith](https://docs.google.com/spreadsheets/d/1sL6Mipn2fxCREi2ORWFeCFnxksfCJo98dqe_rY0d31A/edit?usp=sharing)
 
 ### Documentation Manager
 [samantha](https://docs.google.com/spreadsheets/d/1_djOFWKS9LzOEKvpgxjm3KCwsAUeMV2p-StKRHOG_Ow/edit?usp=sharing)
