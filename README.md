@@ -1,21 +1,20 @@
 ## The Team
 
-### Project Manager
+### Project & Testing Manager
+[Ramzi]()
 
-### Requirements Manager
+### Planner & Requirements Manager
+[Sergio]()
 
-### Planner
-
-### Designer
+### Designer & Webmaster
 
 [Jared](https://docs.google.com/spreadsheets/d/174c-ETdIky57uVeFpzrrtmeVKtIfVYv7nu51RnpKcTM/edit?usp=sharing)
 
-### Implementation Manager
+### Implementation & Presentation Manager
+[Valera]()
 
-### Collaboration Software Manager
-
-### Requirements Manager
+### Collaboration Software & Interface Design and Testing Manager
+[Sajith]()
 
 ### Documentation Manager
-
-### Testing Manager
+[samantha]()
