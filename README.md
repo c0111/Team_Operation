@@ -17,4 +17,4 @@
 [Sajith]()
 
 ### Documentation Manager
-[samantha]()
+[samantha](https://docs.google.com/spreadsheets/d/1_djOFWKS9LzOEKvpgxjm3KCwsAUeMV2p-StKRHOG_Ow/edit?usp=sharing)
