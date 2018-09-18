@@ -1,7 +1,7 @@
 ## The Team
 
 ### Project & Testing Manager
-[Ramzi]()
+[Ramzi](https://docs.google.com/spreadsheets/d/1FabAFQC7t7jfJEE1h68U_0yyZ_HoSr5s1t09sNVxxSo/edit?usp=sharing)
 
 ### Planner & Requirements Manager
 [Sergio]()
