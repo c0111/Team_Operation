@@ -26,4 +26,8 @@
 
 [Design](https://prezi.com/view/nTRouMyCnr0LgNt69MHO/)
 
+[Requirements Matrix](https://docs.google.com/spreadsheets/d/19pEpyzYzjKUZ4gacMta2iThusEsIN4qB8o96gJEHt4U/edit#gid=0)
+
+[Test Matrix](https://docs.google.com/spreadsheets/d/1epX0NmTXEXepXCY3WEFcKuiGThQix4rRa_kvx4PjFWA/edit#gid=0)
+
 [Presentation](https://docs.google.com/presentation/d/1Vr0O-9hhBjVVvcIzu4zoIHgz4NaJuQfvxzp_NTYMUE4/edit?usp=sharing)
