@@ -19,6 +19,9 @@
 ### Documentation & Requirements Manager
 [samantha](https://docs.google.com/spreadsheets/d/1_djOFWKS9LzOEKvpgxjm3KCwsAUeMV2p-StKRHOG_Ow/edit?usp=sharing)
 
+
 [Plan](https://trello.com/b/GNHpDwYC)
+
 [Design](https://prezi.com/view/nTRouMyCnr0LgNt69MHO/)
+
 [Presentation](https://docs.google.com/presentation/d/1Vr0O-9hhBjVVvcIzu4zoIHgz4NaJuQfvxzp_NTYMUE4/edit?usp=sharing)
