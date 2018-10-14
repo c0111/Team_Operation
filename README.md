@@ -30,4 +30,6 @@
 
 [Test Matrix](https://docs.google.com/spreadsheets/d/1epX0NmTXEXepXCY3WEFcKuiGThQix4rRa_kvx4PjFWA/edit#gid=0)
 
-[Presentation](https://docs.google.com/presentation/d/1Vr0O-9hhBjVVvcIzu4zoIHgz4NaJuQfvxzp_NTYMUE4/edit?usp=sharing)
+[Requirements, Design, and Plan Presentation](https://docs.google.com/presentation/d/1Vr0O-9hhBjVVvcIzu4zoIHgz4NaJuQfvxzp_NTYMUE4/edit?usp=sharing)
+
+[Formal Requirements](https://docs.google.com/document/d/1ACQijQkdsXR4C4qhWGo4PTig2recn9n3gVV0VMbybKY/edit?ts=5bbe7010#heading=h.puumlgevc9ci)
